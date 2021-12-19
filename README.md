@@ -1,0 +1,2 @@
+# WeChatRead_NoteConvertor
+将微信读书默认导出的笔记格式转化为标准markdown，方便同步到自己的笔记工具。
